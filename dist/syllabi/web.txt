@@ -1,0 +1,135 @@
+SecuVidyra Academy
+
+Web and API Security Testing
+
+For learners comfortable with HTTP, Linux and basic VAPT.
+8 weeks: 32 live hours + 32 guided practice hours
+Outcome: demonstrate skills through lab evidence and an individual submission.
+
+Proposed schedule. Dates, fees and mode to be confirmed.
+
+Learning modules:
+
+Application mapping
+
+Identify roles, workflows and trust boundaries.
+Inventory endpoints and sensitive data.
+Record expected access before testing.
+
+
+
+HTTP and interception
+
+Observe an approved request through a local proxy.
+Keep an unchanged baseline for comparison.
+Change one input at a time in the sandbox.
+
+
+
+Authentication lifecycle
+
+Review login, reset and account recovery.
+Look for inconsistent identity checks.
+Check error handling and rate limits safely.
+
+
+
+Session management
+
+Sessions should expire according to policy.
+Logout should invalidate relevant server-side state.
+Cookies need suitable security attributes.
+
+
+
+Object-level authorisation
+
+A valid user may still lack access to an object.
+Verify ownership on every relevant request.
+Compare two authorised test accounts.
+
+
+
+Function and property permissions
+
+Separate administrator functions from normal users.
+Restrict sensitive properties during reads and writes.
+Server-side checks must enforce the role model.
+
+
+
+Injection and output encoding
+
+Data must remain data at interpreter boundaries.
+Parameterised queries reduce SQL injection risk.
+Output encoding depends on the destination context.
+
+
+
+CSRF and cross-origin policies
+
+Browsers can attach credentials automatically.
+State-changing actions need appropriate request protections.
+CORS controls browser access to cross-origin responses.
+
+
+
+Server-side requests and uploads
+
+Outbound requests can cross internal boundaries.
+Uploads require validation, safe storage and access controls.
+Restrict destinations and avoid executable upload paths.
+
+
+
+API tokens and claims
+
+Validate token signature and intended context.
+Enforce expiry and expected issuer/audience.
+Keep signing keys and tokens out of logs.
+
+
+
+Business logic and workflow
+
+Security checks must follow the full business process.
+Test invalid step order and repeated requests in a lab.
+Use small, controlled examples for financial workflows.
+
+
+
+API inventory and resource limits
+
+Document versions and deprecated endpoints.
+Apply suitable quotas and request-size limits.
+Validate configuration without stressing a live service.
+
+
+
+Coverage and evidence
+
+Map each test to a role, endpoint and expected control.
+Record pass, fail, blocked or not tested.
+Explain exclusions and environment limits.
+
+
+
+Developer-ready findings
+
+Describe a minimal reproducible case.
+State expected and observed behaviour.
+Suggest a fix at the enforcement boundary.
+Retest the original case and related roles.
+
+
+
+Capstone
+
+Test the fictional student portal with three roles.
+Submit a role matrix, endpoint inventory and coverage sheet.
+Write two validated findings and one secure-control verification.
+Demonstrate a retest after an instructor-provided fix.
+
+All testing takes place on assigned authorised labs with synthetic data.
+
+Academy completion certificate only. No employment guarantee.

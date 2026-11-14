@@ -1,0 +1,142 @@
+SecuVidyra Academy
+
+Ethical Hacking Foundations
+
+For learners with networking and operating-system fundamentals.
+12 weeks: 48 live hours + 48 guided practice hours
+Outcome: demonstrate skills through lab evidence and an individual submission.
+
+Proposed schedule. Dates, fees and mode to be confirmed.
+
+Learning modules:
+
+CEH preparation pathway
+
+Independent foundation material supporting further CEH study.
+Official training, exam eligibility and vouchers require separate confirmation.
+No vendor endorsement or exam-pass guarantee.
+
+
+
+Threats, weaknesses and controls
+
+A threat can exploit a weakness.
+A control reduces likelihood or impact.
+Residual risk remains after controls.
+
+
+
+Reconnaissance and privacy
+
+Passive research gathers already available information.
+Active discovery interacts with a target.
+Collect only information needed for the approved objective.
+
+
+
+Service discovery
+
+Document approved address ranges.
+Identify reachable services with agreed limits.
+Correlate observations with the asset inventory.
+
+
+
+Enumeration and exposure
+
+Service responses can disclose roles or configuration.
+Excessive detail can support later attacks.
+Restrict unnecessary information and anonymous access.
+
+
+
+Credential security
+
+Prefer unique credentials and strong authentication.
+Store passwords using appropriate salted password hashing.
+Rate limits and monitoring reduce automated guessing.
+
+
+
+Endpoint attack concepts
+
+Privilege boundaries limit the impact of a compromised account.
+Patching and application controls reduce attack paths.
+Logs help investigate suspicious execution.
+
+
+
+Malware and incident response
+
+Malware may steal data, disrupt systems or maintain access.
+Isolate affected assets through approved procedures.
+Preserve evidence and communicate impact.
+
+
+
+Network traffic and segmentation
+
+Encrypted traffic protects content in transit.
+Segmentation restricts reachable systems.
+Packet metadata still supports troubleshooting and detection.
+
+
+
+Social engineering defences
+
+Verify unusual requests through a trusted channel.
+Report suspected phishing without forwarding secrets.
+Simulation needs consent, boundaries and support.
+
+
+
+Wireless and mobile security
+
+Use strong wireless authentication and managed updates.
+Separate guest access from internal systems.
+Review mobile permissions and device protections.
+
+
+
+Cloud and shared responsibility
+
+Provider and customer responsibilities differ by service.
+Review identities, exposed storage and network rules.
+Capture configuration evidence with approved access.
+
+
+
+Cryptography in practice
+
+Encryption protects confidentiality with keys.
+Hashes help detect changes but need trusted comparison values.
+Digital signatures support integrity and origin verification.
+
+
+
+Web, APIs and secure design
+
+Check identity and permissions at each boundary.
+Treat input and uploaded files as untrusted.
+Use security logs without exposing secrets.
+
+
+
+Study method and exam integrity
+
+Map learning gaps to the current vendor objectives.
+Practise with legitimate questions and authorised labs.
+Explain why each answer is correct.
+Confirm eligibility directly before paying for an exam.
+
+
+
+Capstone
+
+Analyse a fictional organisation across endpoint, network, cloud and web risks.
+Submit a threat-control map, evidence log and prioritised recommendations.
+Present a five-minute incident-response tabletop.
+
+Independent CEH preparation only. Not official EC-Council training. Exams, eligibility and vouchers are separate.
+
+Academy completion certificate only. No employment guarantee.

@@ -1,0 +1,135 @@
+SecuVidyra Academy
+
+Practical VAPT Foundations
+
+For beginners with basic computer skills and junior IT staff.
+10 weeks: 40 live hours + 40 guided practice hours
+Outcome: demonstrate skills through lab evidence and an individual submission.
+
+Proposed schedule. Dates, fees and mode to be confirmed.
+
+Learning modules:
+
+Security testing lifecycle
+
+Scope and authorise the work.
+Discover assets and assess exposure.
+Validate findings with minimal impact.
+Report, remediate and retest.
+
+
+
+Scope and rules of engagement
+
+List exact hosts, applications and test accounts.
+Define exclusions, rate limits and stop conditions.
+Record an escalation contact and evidence rules.
+
+
+
+Network foundations
+
+IP addresses identify interfaces within a network.
+Ports distinguish services on a host.
+DNS maps names to records.
+A firewall controls traffic according to rules.
+
+
+
+Linux and Windows evidence
+
+Identify the operating system and current account.
+Inspect service configuration and permissions.
+Record timestamps and command outputs.
+Use least privilege for routine work.
+
+
+
+HTTP request and response
+
+A request contains a method, path, headers and optional body.
+A response carries a status, headers and content.
+Cookies can carry session identifiers.
+TLS protects transport, not application authorisation.
+
+
+
+Attack surface inventory
+
+Record host, service, purpose and owner.
+Separate public exposure from internal access.
+Track assumptions and unresolved assets.
+
+
+
+Scanner findings and validation
+
+Treat scanner output as a lead.
+Check affected configuration and reachable conditions.
+Document evidence supporting or rejecting the finding.
+Keep validation within agreed impact limits.
+
+
+
+Authentication and access control
+
+Authentication establishes identity.
+Authorisation decides permitted actions.
+Test role boundaries using separate lab accounts.
+Check both data access and privileged functions.
+
+
+
+Input handling weaknesses
+
+Untrusted input can cross a trust boundary.
+Parameterised queries separate SQL data from instructions.
+Context-aware output encoding helps prevent script injection.
+
+
+
+Configuration and secrets
+
+Remove unnecessary services and default accounts.
+Restrict administrative interfaces.
+Keep secrets outside source code and shared reports.
+Verify secure defaults after changes.
+
+
+
+Risk and business impact
+
+Explain the affected asset and required access.
+Describe a plausible business consequence.
+Separate technical severity from remediation priority.
+Record limitations and uncertainty.
+
+
+
+Evidence and report structure
+
+Include scope, method and limitations.
+For each finding: condition, evidence, impact and fix.
+Redact tokens and personal data.
+Record report version and reviewer.
+
+
+
+Retest and closure
+
+Repeat the original permitted test after the fix.
+Check related roles or paths for regression.
+Mark fixed, partially fixed, open or not retested.
+Retain evidence and client acceptance.
+
+
+
+Capstone
+
+Assess a fictional small-business lab within a signed scope.
+Submit an asset list, test log and three validated findings or justified clean checks.
+Deliver a short report and one retest record.
+
+All testing takes place on assigned authorised labs with synthetic data.
+
+Academy completion certificate only. No employment guarantee.

@@ -1,0 +1,133 @@
+SecuVidyra Academy
+
+GRC and ISO 27001 Fundamentals
+
+For IT staff and aspiring security-compliance analysts.
+8 weeks: 32 live hours + 24 guided practice hours
+Outcome: demonstrate skills through lab evidence and an individual submission.
+
+Proposed schedule. Dates, fees and mode to be confirmed.
+
+Learning modules:
+
+Governance, risk and compliance
+
+Governance establishes direction and accountability.
+Risk management supports decisions under uncertainty.
+Compliance tracks applicable obligations.
+
+
+
+ISMS scope and context
+
+Define organisational and technical boundaries.
+Identify relevant interested parties and requirements.
+Record dependencies and exclusions with reasons.
+
+
+
+Assets and ownership
+
+Identify information and supporting systems.
+Assign owners who can make decisions.
+Classify information by business need.
+
+
+
+Risk assessment method
+
+Define likelihood and impact criteria before scoring.
+Describe asset, threat, weakness and consequence.
+Apply the same criteria consistently.
+
+
+
+Risk treatment and acceptance
+
+Choose treatment based on risk and obligations.
+Assign an owner, due date and evidence.
+Obtain authorised acceptance of remaining risk.
+
+
+
+Statement of Applicability
+
+Connect necessary controls to risk treatment.
+Record inclusion and exclusion reasoning.
+Track implementation status and evidence.
+
+
+
+Policies and operating procedures
+
+Policies state direction and responsibilities.
+Procedures explain how work happens.
+Records show that the work occurred.
+
+
+
+Access and supplier controls
+
+Review permissions against business need.
+Remove access promptly when roles change.
+Assess supplier access and responsibilities.
+
+
+
+Evidence quality
+
+Evidence should match scope, date and control.
+Check source, completeness and approval.
+Limit access to sensitive records.
+
+
+
+Internal audit planning
+
+Set scope, criteria and sampling approach.
+Select auditors with appropriate objectivity.
+Record interviews, observations and evidence.
+
+
+
+Findings and corrective action
+
+Link each finding to a requirement and evidence.
+Separate correction from root-cause action.
+Verify whether the action prevents recurrence.
+
+
+
+Management review and measures
+
+Leadership reviews performance and significant changes.
+Use measures with clear owners and definitions.
+Record decisions and follow-up actions.
+
+
+
+Implementation and certification
+
+An organisation implements its ISMS.
+An independent certification body assesses certification.
+Training completion does not confer auditor accreditation.
+
+
+
+Continual improvement
+
+Track incidents, audit findings and changes.
+Review whether controls work in practice.
+Update risk treatment and accountable actions.
+
+
+
+Capstone
+
+Build a miniature ISMS pack for the fictional SaaS company.
+Submit scope, five risks, a treatment plan and a sample SoA.
+Include an audit checklist, one finding and a corrective-action record.
+
+Implementation education only. Not an accredited Lead Auditor qualification or authority to issue ISO certificates.
+
+Academy completion certificate only. No employment guarantee.
